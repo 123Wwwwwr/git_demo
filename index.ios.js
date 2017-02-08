@@ -12,6 +12,7 @@ import {
   View
 } from 'react-native';
 //组件的引入
+var my = '大神大神的第三';
 var Main = require("./cumponent/Main");
 export default class first01 extends Component {
   render() {
