@@ -13,6 +13,8 @@ import {
 } from 'react-native';
 //组件的引入
 var my = '问问吾问无为谓';
+var you = '请到财务办公式交罚款';
+var
 var Main = require("./cumponent/Main");
 export default class first01 extends Component {
   render() {
